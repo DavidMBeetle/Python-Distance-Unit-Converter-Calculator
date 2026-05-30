@@ -3,5 +3,5 @@ Copyright © 2026–Present DavidMBeetle. Creative Commons Attribution-NonCommer
 For a general overview of what you have a right to do with my code, use this link to the deed: 
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
-For the full legal document; view itt here:
+For the full legal document; view it here:
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.en 
