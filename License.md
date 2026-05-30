@@ -1,4 +1,4 @@
-Copyright © 2026–Present DavidMBeetle. Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+Copyright © 2026–Present DavidMBeetle. Creative Commons Attribution-NonCommercial 4.0 International License.
 
 This license applies to this entire project, not just the code. The license covers your use of all content, including distributing the archived versions, or even repurposing the the README file while creating a for-profit project. 
 
