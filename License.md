@@ -1,6 +1,8 @@
 Copyright © 2026–Present DavidMBeetle. Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 
-For a general overview of what you have a right to do with my code, use this link to the deed: 
+This license applies to this entire project, not just the code. The license covers your use of all content, including distributing the archived versions, or even repurposing the the README file while creating a for-profit project. 
+
+For a general overview of what you have a right to do with my project, use this link to the deed: 
 https://creativecommons.org/licenses/by-nc/4.0/ 
 
 For the full legal document; view it here:
