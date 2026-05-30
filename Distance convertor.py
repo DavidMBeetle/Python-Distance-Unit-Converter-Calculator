@@ -25,8 +25,8 @@ def ClearWindow():
 def DisplayOutput(InputVar1, InputVar2, Unit1, Unit2):
     
     #Adding them to the scope like so
-    OutputUnit1 = GUI.Label(Window, text=f"{InputVar1:.2f} " f"{Unit1}")
-    OutputUnit2 = GUI.Label(Window, text=f"{InputVar2:.2f} " f"{Unit2}")
+    OutputUnit1 = GUI.Label(Window, text=f"{InputVar1:.2f} " + f"{Unit1}")
+    OutputUnit2 = GUI.Label(Window, text=f"{InputVar2:.2f} " + f"{Unit2}")
 
     OutputLabel = GUI.Label(Window, text="Outputted conversions:")
     OutputLabel.place(x=150, y=100)
