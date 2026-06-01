@@ -1,3 +1,5 @@
+#Copyright © 2026–Present DavidMBeetle. GNU General Public License v3.0
+
 #importing libraries
 import tkinter as GUI
 import math
@@ -117,3 +119,5 @@ ConvertButton.place(x=200, y=350)
 
 #Start GUI event thing
 Window.mainloop()
+
+# Copyright © 2026–Present DavidMBeetle. GNU General Public License v3.0
