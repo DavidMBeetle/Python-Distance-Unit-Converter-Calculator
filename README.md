@@ -11,3 +11,5 @@ This was programmed and tested on macOS apple sillicon, it might not work as wel
 
 
 I'm open to feed back; just write to me if you'd like.
+
+Copyright © 2026–Present DavidMBeetle. GNU General Public License v3.0
